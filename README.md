@@ -52,6 +52,12 @@ Eshell V9.2  (abort with ^G)
 1> 
 ```
 
+## Notes
+
+_The files which are used to store the module must have the same name as the module but with the extension `.erl`._
+
+_... a variable can only be given a value once in its context (scope)._
+
 ## References
 
 * https://www.erlang.org/downloads
